@@ -1,0 +1,10 @@
+28.10.2026 11:13:54.022 - Application started. Keywords loaded: 6
+28.10.2026 11:13:54.231 - Navigation requested: https://www.google.com/
+28.10.2026 11:14:29.817 - Navigation requested: https://consent.google.com/save
+28.10.2026 11:14:44.346 - User pressed Enter in the address bar
+28.10.2026 11:14:44.355 - Navigation requested: https://www.google.com/search?q=google
+28.10.2026 11:15:09.483 - Navigation requested: https://www.google.com/search?q=google&sca_esv=13a7a96266065e97&sxsrf=APpeQntGO06i1DwfWcYS8gJR7r_OAa7sNg:1793178887395&emsg=SG_REL&sei=B73harHZF7mUxc8P_vPhyAY
+28.10.2026 11:15:14.195 - Navigation requested: https://www.google.com/search?q=google&sca_esv=13a7a96266065e97&sxsrf=APpeQnvBV19k4ZfVcM02olSoDohVPn0faQ:1793178909406&emsg=SG_REL&sei=Hb3hap2pGMCWxc8Pvv7igA4
+28.10.2026 11:15:20.944 - User clicked Home
+28.10.2026 11:15:20.946 - Navigation requested: https://www.google.com/
+28.10.2026 11:15:31.664 - Application closed
